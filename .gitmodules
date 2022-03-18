@@ -1,0 +1,3 @@
+[submodule "cs-behaviour-docs"]
+	path = cs-behaviour-docs
+	url = https://github.com/devkosta/cs-behaviour-docs.git
